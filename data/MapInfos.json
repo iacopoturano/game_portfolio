@@ -1,16 +1,17 @@
 [
 null,
-{"id":1,"expanded":true,"name":"GAME MAP","order":1,"parentId":0,"scrollX":624,"scrollY":382.4},
+{"id":1,"expanded":true,"name":"GAME MAP","order":1,"parentId":0,"scrollX":1139,"scrollY":641},
 {"id":2,"expanded":true,"name":"CUTSCENES","order":5,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":3,"expanded":true,"name":"HUB","order":2,"parentId":1,"scrollX":624,"scrollY":382.4},
-{"id":4,"expanded":false,"name":"FLOATING ROOM","order":3,"parentId":1,"scrollX":850.909090909091,"scrollY":521.4545454545455},
-{"id":5,"expanded":false,"name":"FLOPPY DISK 1","order":7,"parentId":2,"scrollX":780,"scrollY":478},
-{"id":6,"expanded":false,"name":"INTRO ","order":6,"parentId":2,"scrollX":624,"scrollY":382.4},
-{"id":7,"expanded":false,"name":"FLOPPY DISK 2","order":8,"parentId":2,"scrollX":624,"scrollY":382.4},
-{"id":8,"expanded":false,"name":"FLOPPY DISK 3","order":9,"parentId":2,"scrollX":624,"scrollY":382.4},
-{"id":9,"expanded":false,"name":"FLOPPY DISK 4","order":10,"parentId":2,"scrollX":624,"scrollY":382.4},
-{"id":10,"expanded":false,"name":"FLOPPY DISK 5","order":11,"parentId":2,"scrollX":624,"scrollY":382.4},
-{"id":11,"expanded":false,"name":"DADS ROOM","order":4,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":true,"name":"HUB","order":2,"parentId":1,"scrollX":1139,"scrollY":641},
+{"id":4,"expanded":true,"name":"FLAOTING ROOM","order":4,"parentId":1,"scrollX":1131,"scrollY":1136},
+{"id":5,"expanded":false,"name":"FLOPPY DISK 1","order":7,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":false,"name":"INTRO ","order":6,"parentId":2,"scrollX":1139,"scrollY":641},
+{"id":7,"expanded":false,"name":"FLOPPY DISK 2","order":8,"parentId":2,"scrollX":1139,"scrollY":641},
+{"id":8,"expanded":false,"name":"FLOPPY DISK 3","order":9,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":false,"name":"FLOPPY DISK 4","order":10,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":10,"expanded":false,"name":"FLOPPY DISK 5","order":11,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":11,"expanded":false,"name":"DADS ROOM","order":3,"parentId":1,"scrollX":1139,"scrollY":641},
 {"id":12,"expanded":true,"name":"PROTOTYPES","order":12,"parentId":0,"scrollX":624,"scrollY":382.4},
-{"id":13,"expanded":false,"name":"INTRO CUTSCENE","order":13,"parentId":12,"scrollX":780,"scrollY":478}
+null,
+{"id":14,"expanded":true,"name":"HUB CUTSCENES ","order":13,"parentId":12,"scrollX":1139,"scrollY":641}
 ]
